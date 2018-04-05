@@ -13,7 +13,7 @@
 
 **statvlun -nodes 0 -slots 0 -ports 1** will show host/vv data usage on that port
 
-**sr<cmd> will show some historical data
+**srcommand** will show some historical data, replace command with what ever command you want data from such as statcmp
 
 **showeeprom** shows BIOS and OS version
 
