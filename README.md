@@ -42,8 +42,11 @@ removesralertcrit -pat * -f removes all alerts from an array
 #########################
 
 alishow <hostname> shows any alias for the host, used to find what array the host is on
+
 nodefind <arrayportwwn> will show what switch port the array is connected to
+
 portshow <port> will show the current port status. ignore portnumber for all ports
+
 errdump will show the running error log
 
 #########################
@@ -51,4 +54,5 @@ errdump will show the running error log
 #########################
 
 Update > Update HP 3PAR OS > Next > ISO Image > Browse > Find the file > Next
+
 Once upload is complete, hit back otherwise the patching will start.
